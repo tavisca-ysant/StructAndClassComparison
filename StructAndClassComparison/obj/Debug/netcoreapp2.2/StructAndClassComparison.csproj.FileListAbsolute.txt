@@ -1,0 +1,7 @@
+C:\Users\ysant\source\repos\StructAndClassComparison\StructAndClassComparison\bin\Debug\netcoreapp2.2\StructAndClassComparison.deps.json
+C:\Users\ysant\source\repos\StructAndClassComparison\StructAndClassComparison\bin\Debug\netcoreapp2.2\StructAndClassComparison.runtimeconfig.json
+C:\Users\ysant\source\repos\StructAndClassComparison\StructAndClassComparison\bin\Debug\netcoreapp2.2\StructAndClassComparison.runtimeconfig.dev.json
+C:\Users\ysant\source\repos\StructAndClassComparison\StructAndClassComparison\bin\Debug\netcoreapp2.2\StructAndClassComparison.dll
+C:\Users\ysant\source\repos\StructAndClassComparison\StructAndClassComparison\obj\Debug\netcoreapp2.2\StructAndClassComparison.csproj.CoreCompileInputs.cache
+C:\Users\ysant\source\repos\StructAndClassComparison\StructAndClassComparison\obj\Debug\netcoreapp2.2\StructAndClassComparison.AssemblyInfoInputs.cache
+C:\Users\ysant\source\repos\StructAndClassComparison\StructAndClassComparison\obj\Debug\netcoreapp2.2\StructAndClassComparison.AssemblyInfo.cs
